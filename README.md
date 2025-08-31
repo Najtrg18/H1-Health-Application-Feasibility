@@ -1,7 +1,7 @@
 # H1-Health-Application-Feasibility
 
-# Project
-A project of the Data Scientist professional certification with OpenClassRooms
+# Project Overview
+[Project Overview](https://github.com/Najtrg18/H1-Health-Application-Feasibility/blob/main/H1_presentation.pdf)
 
 # Data 
 Sourced from: https://world.openfoodfacts.org/ and https://world.openfoodfacts.org/data/data-fields.txt
